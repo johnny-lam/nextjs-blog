@@ -21,9 +21,9 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Hello, I'm <b>Johnny</b>. I'm a Sitecore Developer in Australia.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
+          (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
